@@ -8,9 +8,9 @@
 - [数学建模](https://github.com/fangtaoysu/math_model)
 
 # 学习笔记
-- ![机器学习](https://github.com/fangtaoysu/MachineLearning)
+- [机器学习](https://github.com/fangtaoysu/MachineLearning)
 - [leetcode刷题](https://github.com/fangtaoysu/leetcode_practice)
 
-[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFeng245&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=fangtaoysu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFeng245&layout=compact&hide_border=true&langs_count=10)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fangtaoysu&layout=compact&hide_border=true&langs_count=10)
