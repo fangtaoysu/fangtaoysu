@@ -2,6 +2,7 @@
 
 # 入门项目
 - [python_alien_invasion](https://github.com/fangtaoysu/alien_invasion)
+- [python_resource_aggregation](https://github.com/fangtaoysu/resource_aggregation)
 - [C#_MineClearing](https://github.com/fangtaoysu/MineClearing)
 - [C#_SpiderSolitaire](https://github.com/fangtaoysu/SpiderSolitaire)
 - [C#_2048Game](https://github.com/fangtaoysu/2048Game)
