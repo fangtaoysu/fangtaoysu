@@ -1,6 +1,6 @@
 - 👋 Hi, Welcome to my homepage. Below are the basic information of my repository.
 
-# MIT项目
+# 核心项目
 - [CS61A](https://github.com/fangtaoysu/CS61A)
 
 
