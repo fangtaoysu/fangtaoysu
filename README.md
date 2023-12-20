@@ -1,10 +1,10 @@
 - 👋 Hi, Welcome to my homepage. Below are the basic information of my repository.
 
-# 核心项目
+# 自修课程
 - [CS61A](https://github.com/fangtaoysu/CS61A)
 
 
-# 小项目
+# 个人项目
 - [python_alien_invasion](https://github.com/fangtaoysu/alien_invasion)
 - [python_resource_aggregation](https://github.com/fangtaoysu/resource_aggregation)
 - [C#_MineClearing](https://github.com/fangtaoysu/MineClearing)
