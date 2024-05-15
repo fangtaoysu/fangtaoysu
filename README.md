@@ -2,6 +2,7 @@
 
 # 自修课程
 - [CS61A](https://github.com/fangtaoysu/CS61A)
+- [cpp](https://github.com/fangtaoysu/cpp)
 
 
 # 个人项目
