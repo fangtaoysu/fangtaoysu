@@ -11,7 +11,7 @@
 - [C#_MineClearing](https://github.com/fangtaoysu/MineClearing)
 - [C#_SpiderSolitaire](https://github.com/fangtaoysu/SpiderSolitaire)
 - [C#_2048Game](https://github.com/fangtaoysu/2048Game)
-- [数学建模](https://github.com/fangtaoysu/math_model)
+- [MNER](https://github.com/fangtaoysu/MNER)
 
 # 学习笔记
 - [机器学习](https://github.com/fangtaoysu/MachineLearning)
