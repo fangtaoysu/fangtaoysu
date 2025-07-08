@@ -6,6 +6,7 @@
 
 
 # 个人项目
+- [MiniGit](https://github.com/fangtaoysu/minigit)
 - [python_alien_invasion](https://github.com/fangtaoysu/alien_invasion)
 - [python_resource_aggregation](https://github.com/fangtaoysu/resource_aggregation)
 - [C#_MineClearing](https://github.com/fangtaoysu/MineClearing)
